@@ -1,7 +1,8 @@
 # Python_PDF_TO_TIFF_WITH_GUI
-Offline Pdf To TIFF Converter
-This project for Secure data Privacy. 
-You can run the the project offline.
+## Offline Pdf To TIFF Converter
+This project for Secure data Privacy.
+
+The Project can be Executed without an internet connection.
 
 Required Python Libraries:
 1. PyMuPDF you can install using "pip install PyMuPDF".
