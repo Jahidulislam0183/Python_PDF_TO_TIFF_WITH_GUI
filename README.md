@@ -1,5 +1,5 @@
 # Python_PDF_TO_TIFF_WITH_GUI
-## Offline Pdf To TIFF Converter
+## Offline Pdf to TIFF Converter
 This project for Secure data Privacy.
 
 The Project can be Executed without an internet connection.
